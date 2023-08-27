@@ -2,7 +2,7 @@
 
 The Chat_Application project is a practical implementation aimed at mastering the logic of real-time message communication between users. Built using ChatEngine, this application facilitates the exchange of text messages and images in a seamless and instantaneous manner. The project also includes a user login form to authenticate user credentials.
 
-![Uploading chat_application.png…]()
+![chat_application](https://github.com/Hean-Chhinling/Chat_Application/assets/92643868/0a0f784f-2eee-43c3-b3c4-a464bd9703c4)
 
 
 ## Features
